@@ -1,8 +1,8 @@
-<img align="center" alt="Cryptocurrency" width="100%" height="200px" src="https://github.com/StrangeBear/.github-private/blob/main/profile/cryptocurrency.png">
+<img align="center" alt="Cryptocurrency" width="100%" height="200px" src="https://github.com/StrangeBear/.github/blob/main/profile/cryptocurrency.png">
 
 <h1 align="center">Hi 👋, we are Strange Bear</h1>
 <h3 align="center">Cryptocurrency</h3>
-<img align="right" alt="Strange Bear logo" width="400" src="https://github.com/StrangeBear/.github-private/blob/main/profile/bear.png">
+<img align="right" alt="Strange Bear logo" width="400" src="https://github.com/StrangeBear/.github/blob/main/profile/bear.png">
 
 ![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
