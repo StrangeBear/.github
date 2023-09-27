@@ -4,7 +4,7 @@
 <h3 align="center">Cryptocurrency</h3>
 <img align="right" alt="Strange Bear logo" width="400" src="https://github.com/StrangeBear/.github/blob/main/profile/bear.png">
 
-- 🔭 I’m currently working on **cryptocurrency tracking**
+- 🔭 We are currently working on **cryptocurrency tracking**
 
 <h3 align="left">Languages and Tools:</h3>
 
